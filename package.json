@@ -6,7 +6,7 @@
     "laravel-elixir-livereload": "^1.1.4"
   },
   "dependencies": {
-    "bootstrap-sass": "^3.2.0",
+    "bootstrap-sass": "^3.4.3",
     "bootstrap-tagsinput": "^0.7.1",
     "font-awesome": "^4.1.0",
     "sweetalert": "^1.1.3",
